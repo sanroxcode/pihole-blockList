@@ -5,80 +5,80 @@
 # Report if you find a problem or want to add an address.
 #--------------------------------------------------------#
 
-10bet.com
-1xbet.com
-20bet.com
-22bet.com
-vegas7games.com
-admbet.com	
-bet-football.com
-lucky6.com.na/luckysix
-apuestasdeportivas.com
-aposta.la
-arabbet24.com
-arvonet.net
-atabet.com
-americastg.com
-bet365.com
-betano.com
-betfair.com	
-1xbet.com
-betmotion.com
-betnacional.com
-betway.com
-dafabet.com
-f12.bet
-galera.bet
-ggbet.com
-hentapp.com
-interwetten.com
-kambi.com
-leonbets.com
-maxplay.com
-minmaxbet.com
-mybets.today
-netbet.com
-parimatch.com
-betplatinum.com
-rivalo.com
-superbet.com
-tonybet.com
-vaidebet.com
-vbet.com
-williamhill.com
-betmaster.io
-betmaster-br.net
-betmaster.bet.com
-kebet.com
-betboo.com
-betwarrior.bet
-betpix.com
-mrjack.bet
-pixbet.com
-jogodotigre.com
-betsson.com
-betsul.com
-leovegas.com
-megapari.com
-estadiumbet.com
-batery.win
-apostasnow.com
-jogodotigre.com
-tigrinhofortune.com
-fortunetiger.com
-slots.com.br
-apostasnow.com
-betpix.com
-batery.win
-estadiumbet.com
-megapari.com
-betwarrior.bet
-betnacional.com
-jackbet.com
-betboo.com.br
-betmaster.com
-tonybet.com
-vbet.com
-rivalo.com
-1xbet.com
-bet365.com
+0.0.0.0 10bet.com
+0.0.0.0 1xbet.com
+0.0.0.0 20bet.com
+0.0.0.0 22bet.com
+0.0.0.0 vegas7games.com
+0.0.0.0 admbet.com	
+0.0.0.0 bet-football.com
+0.0.0.0 lucky6.com.na
+0.0.0.0 apuestasdeportivas.com
+0.0.0.0 aposta.la
+0.0.0.0 arabbet24.com
+0.0.0.0 arvonet.net
+0.0.0.0 atabet.com
+0.0.0.0 americastg.com
+0.0.0.0 bet365.com
+0.0.0.0 betano.com
+0.0.0.0 betfair.com	
+0.0.0.0 1xbet.com
+0.0.0.0 betmotion.com
+0.0.0.0 betnacional.com
+0.0.0.0 betway.com
+0.0.0.0 dafabet.com
+0.0.0.0 f12.bet
+0.0.0.0 galera.bet
+0.0.0.0 ggbet.com
+0.0.0.0 hentapp.com
+0.0.0.0 interwetten.com
+0.0.0.0 kambi.com
+0.0.0.0 leonbets.com
+0.0.0.0 maxplay.com
+0.0.0.0 minmaxbet.com
+0.0.0.0 mybets.today
+0.0.0.0 netbet.com
+0.0.0.0 parimatch.com
+0.0.0.0 betplatinum.com
+0.0.0.0 rivalo.com
+0.0.0.0 superbet.com
+0.0.0.0 tonybet.com
+0.0.0.0 vaidebet.com
+0.0.0.0 vbet.com
+0.0.0.0 williamhill.com
+0.0.0.0 betmaster.io
+0.0.0.0 betmaster-br.net
+0.0.0.0 betmaster.bet.com
+0.0.0.0 kebet.com
+0.0.0.0 betboo.com
+0.0.0.0 betwarrior.bet
+0.0.0.0 betpix.com
+0.0.0.0 mrjack.bet
+0.0.0.0 pixbet.com
+0.0.0.0 jogodotigre.com
+0.0.0.0 betsson.com
+0.0.0.0 betsul.com
+0.0.0.0 leovegas.com
+0.0.0.0 megapari.com
+0.0.0.0 estadiumbet.com
+0.0.0.0 batery.win
+0.0.0.0 apostasnow.com
+0.0.0.0 jogodotigre.com
+0.0.0.0 tigrinhofortune.com
+0.0.0.0 fortunetiger.com
+0.0.0.0 slots.com.br
+0.0.0.0 apostasnow.com
+0.0.0.0 betpix.com
+0.0.0.0 batery.win
+0.0.0.0 estadiumbet.com
+0.0.0.0 megapari.com
+0.0.0.0 betwarrior.bet
+0.0.0.0 betnacional.com
+0.0.0.0 jackbet.com
+0.0.0.0 betboo.com.br
+0.0.0.0 betmaster.com
+0.0.0.0 tonybet.com
+0.0.0.0 vbet.com
+0.0.0.0 rivalo.com
+0.0.0.0 1xbet.com
+0.0.0.0 bet365.com
