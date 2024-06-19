@@ -1,0 +1,65 @@
+#--------------------------------------------------------#
+# Last Update: 19-06-2024 with 9.645 domains
+# MIT License: Copyright (c) 2024 sanroxcode
+# https://github.com/sanroxcode/pihole-fortune-tiger
+# Report if you find a problem or want to add an address.
+#--------------------------------------------------------#
+
+	10bet.com
+	1xbet.com
+	20bet.com
+	22bet.com
+	vegas7games.com
+	admbet.com	
+	bet-football.com
+	lucky6.com.na/luckysix
+	apuestasdeportivas.com
+	aposta.la
+	arabbet24.com
+	arvonet.net
+	atabet.com
+	americastg.com
+	bet365.com
+	betano.com
+	betfair.com	
+	1xbet.com
+	betmotion.com
+	betnacional.com
+	betway.com
+	dafabet.com
+	f12.bet
+	galera.bet
+	ggbet.com
+	hentapp.com
+	interwetten.com
+	kambi.com
+	leonbets.com
+	maxplay.com
+	minmaxbet.com
+	mybets.today
+	netbet.com
+	parimatch.com
+	betplatinum.com
+	rivalo.com
+	superbet.com
+	tonybet.com
+	vaidebet.com
+	vbet.com
+	williamhill.com
+	betmaster.io
+	betmaster-br.net
+	betmaster.bet.com
+	kebet.com
+	betboo.com
+	betwarrior.bet
+	betpix.com
+	mrjack.bet
+	pixbet.com
+	jogodotigre.com
+	betsson.com
+	betsul.com
+	leovegas.com
+	megapari.com
+	estadiumbet.com
+	batery.win
+	apostasnow.com
